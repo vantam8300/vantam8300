@@ -48,8 +48,8 @@
 ## My stats
 
 ![Van Tam's github stats](https://github-readme-stats.vercel.app/api?username=vantam8300&show_icons=true&theme=merko)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vantam8300&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vantam8300"/>
+<code><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vantam8300&layout=compact"/></code>
+<code><img src="https://github-readme-streak-stats.herokuapp.com/?user=vantam8300"/></code>
 
 
 
