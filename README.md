@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-<br>
+</br>
 
 ## How to reach me  💬 
 
@@ -23,7 +23,7 @@
 
 📫 My email vantam8300@gmail.com
 
-<br>
+</br>
 
 ## 🛠 &nbsp;Languages and Tools :
 
@@ -43,13 +43,14 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 </p>
 
-<br>
+</br>
 
 ## My stats
-
-![Van Tam's github stats](https://github-readme-stats.vercel.app/api?username=vantam8300&show_icons=true&theme=merko)
-<code><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vantam8300&layout=compact"/></code>
-<code><img src="https://github-readme-streak-stats.herokuapp.com/?user=vantam8300"/></code>
+![Van Tam's github stats](https://github-readme-stats-hzf6.vercel.app/api?username=vantam8300&show_icons=true&theme=merko)
+<br />
+<img src="https://github-readme-stats-hzf6.vercel.app/api/top-langs?username=vantam8300&layout=compact"/>
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vantam8300"/>
 
 
 
