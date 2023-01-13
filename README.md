@@ -50,7 +50,7 @@
 <br />
 <img src="https://github-readme-stats-hzf6.vercel.app/api/top-langs?username=vantam8300&layout=compact"/>
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vantam8300"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vantam8300&theme=dark"/>
 
 
 
