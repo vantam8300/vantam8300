@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm <a href="#" target="_blank">Van Tam </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello World, I'm <a href="https://vantam8300.github.io/react-portfolio/" target="_blank">Van Tam </a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I am a passionate Full Stack Software Engineer</h3>
 <h3 align="center">Welcome to my happy place!</h3>
 <!-- I love to learn..-->
@@ -19,7 +19,7 @@
 
 🤝 Let's connect on my [Linkedin](https://www.linkedin.com/in/van-tam-chau-80062323b/) </br>
 
-🖥️ Here is my [Portfolio](https://vantam8300.github.io/professional-portfolio/) </br>
+🖥️ Here is my [Portfolio](https://vantam8300.github.io/react-portfolio/) </br>
 
 📫 My email vantam8300@gmail.com
 
