@@ -43,7 +43,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 </p>
 
 </br>
